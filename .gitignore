@@ -1,0 +1,5 @@
+.DS_Store
+dist/
+.openai/
+.sites-runtime/
+*.tar.gz
